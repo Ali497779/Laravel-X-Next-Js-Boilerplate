@@ -1,10 +1,14 @@
 🚀 Full-Stack Boilerplate (Laravel API + Next.js Frontend)
 
+
 This repository contains a fully functional starter boilerplate that includes:
+
 
 Laravel backend (REST API, MySQL, Bearer Token Auth)
 
+
 Next.js frontend (API integration + basic structure for CRUD)
+
 
 Use this template to quickly start any production-grade full-stack application.
 
